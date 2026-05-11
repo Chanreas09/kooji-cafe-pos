@@ -8,7 +8,7 @@ const urlsToCache = [
 ];
 
 // Install service worker
-self.addEventListener('install', event => {
+self.addEventListener('install', const SCOPE = '/kooji-cafe-pos/';event => {
     event.waitUntil(
         caches.open(CACHE_NAME)
             .then(cache => {
