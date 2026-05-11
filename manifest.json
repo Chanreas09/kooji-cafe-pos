@@ -2,7 +2,7 @@
     "name": "KOOJI Cafe & TEA POS",
     "short_name": "KOOJI POS",
     "description": "Point of Sale System for KOOJI Cafe & TEA",
-    "start_url": "/kooji-cafe-pos/",
+    "start_url": "kooji-cafe-pos/",
     "display": "standalone",
     "background_color": "#f9fafb",
     "theme_color": "#ea580c",
